@@ -6,12 +6,18 @@ This project extracts various audio features (like Energy, Power, MFCCs, and Spe
 Dependencies:
 The project uses the following Python libraries:
 
-Package	Description
+Package	Description:
+
 moviepy	- Used to process video files and extract audio from them.
+
 librosa -	A library for analyzing and extracting audio features.
+
 numpy -	Numerical computing library for efficient data manipulation.
+
 scipy -	Scientific computing tools used for mathematical operations.
+
 soundfile -	Handles reading and writing of audio files.
+
 matplotlib -	Used to visualize audio waveforms and extracted features.
 
 Methodology
@@ -80,5 +86,6 @@ plt.title("MFCCs")
 plt.show()
 
 
-Conclusion
+Conclusion:
+
 This project demonstrates how to extract audio features and visualize them using Python. It uses libraries like moviepy for video processing and librosa for audio analysis, making it ideal for audio-related applications like speech recognition, music analysis, or feature engineering for machine learning.
