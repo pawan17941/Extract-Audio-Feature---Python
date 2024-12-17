@@ -1,9 +1,9 @@
 ﻿# Extract-Audio-Feature---Python
 
-Overview
+Overview:
 This project extracts various audio features (like Energy, Power, MFCCs, and Spectral Features) from audio files using Python. It also provides functionality to process video files by extracting audio and subsequently analyzing it for audio features.
 
-Dependencies
+Dependencies:
 The project uses the following Python libraries:
 
 Package	Description
